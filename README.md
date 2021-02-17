@@ -1,0 +1,1 @@
+This project is the first major assignment on TOP. Working on recreating the Google.com homepage from scratch. Will take awhile as I'll need to look up most things and figure out how to do them efficiently with good practice and habits.
